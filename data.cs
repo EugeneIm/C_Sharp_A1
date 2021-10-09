@@ -6,16 +6,31 @@ namespace ConsoleApp5
 {
     public partial class Program
     {
-        public partial class menu
+        public class StoreData
         {
-            static void getData()
+            public void ReadData()
             {
+                int storeID
+                int chosenDate
+                double weeklySales
+                int isHoliday
 
-                string rowCSV = File.ReadAllText(@"/Users/eugene/Desktop/CA1/Walmart_Store_Data.csv");
-                Console.WriteLine(rowCSV[0]);
+                public StoreData()
+                {
+                    storeID = lineContent[0]
+                    chosenDate = lineContent[1]
+                    weeklySales = lineContent[2]
+                    isHoliday = lineContent[3]
+                }
+
+                const string FILE = @"C:\Users\immer\Desktop\gitAssignment1\C_Sharp_A1\Walmart_Store_Data.csv";
+                StreamReader sr = new StreamReader(FILE);
+                while (!sr.EndOfStream) {
+                string lineContent = sr.ReadLine();
+                Console.WriteLine(lineContent);
+                }
+                sr.Close(); // It is better to close the reader when finished.
                 Console.ReadLine();
-                Console.WriteLine("Here is some dummy text to replace the data menu");
-                Console.WriteLine($"If the entered ID matches the ID take all the values and sum them all up");
                 
             }
             

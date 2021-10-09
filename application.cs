@@ -6,7 +6,7 @@ namespace ConsoleApp5
 {
     public partial class Program
     {
-        public partial class menu
+        public class menu
         {
             public static void userInput()
             {
@@ -18,7 +18,7 @@ namespace ConsoleApp5
                 Console.WriteLine("2. All Stores Combined Statistics");
                 Console.WriteLine("3. Quit.");
                 Console.Write("Please Enter a Selection: ");
-            
+
                 try
                 {
                 int option = int.Parse(Console.ReadLine());
@@ -83,7 +83,7 @@ namespace ConsoleApp5
 
             static void Main(string[] args)
             {
-                
+
             }
         }
     }
