@@ -26,7 +26,7 @@ namespace ConsoleApp5
             try
             {
                 
-                Console.WriteLine("Store Number " + Console.ReadLine());
+                Console.WriteLine("Store Number " + Convert.ToInt32(Console.ReadLine()));
             }
             catch(FormatException)
             {
