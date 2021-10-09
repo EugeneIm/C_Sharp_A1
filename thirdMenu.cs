@@ -8,7 +8,7 @@ namespace ConsoleApp5
     {
         public partial class menu
         {
-            static void storeChoices()
+            static void storeChoice()
             {
                 Console.WriteLine($"1) Get Total Sales");   
                 Console.WriteLine($"2) Enter Total Monthly Sales");   
@@ -18,4 +18,5 @@ namespace ConsoleApp5
 
             }
     }
+}
 }

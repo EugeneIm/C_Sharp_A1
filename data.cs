@@ -3,13 +3,14 @@ using System.IO;
 
 namespace ConsoleApp5
 {
-    class Program
+    public partial class Program
     {
         static void Main(string[] args)
         {
             const string FILE = @"C:\Users\immer\Desktop\gitAssignment1\C_Sharp_A1\Walmart_Store_Data.csv";
             StreamReader sr = new StreamReader(FILE);
-            while (!sr.EndOfStream) {
+            while (!sr.EndOfStream) 
+            {
                 string lineContent = sr.ReadLine();
                 Console.WriteLine(lineContent);
             }

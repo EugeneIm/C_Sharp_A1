@@ -6,7 +6,7 @@ namespace ConsoleApp5
 {
     public partial class Program
     {
-        public class menu
+        public partial class menu
         {
             public static void userInput()
             {
