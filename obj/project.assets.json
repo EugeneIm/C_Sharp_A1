@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "/Users/eugene/.nuget/packages/": {}
+    "C:\\Users\\immer\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/CA1.csproj",
+      "projectUniqueName": "C:\\Users\\immer\\Desktop\\gitAssignment1\\C_Sharp_A1\\CA1.csproj",
       "projectName": "CA1",
-      "projectPath": "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/CA1.csproj",
-      "packagesPath": "/Users/eugene/.nuget/packages/",
-      "outputPath": "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/obj/",
+      "projectPath": "C:\\Users\\immer\\Desktop\\gitAssignment1\\C_Sharp_A1\\CA1.csproj",
+      "packagesPath": "C:\\Users\\immer\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\immer\\Desktop\\gitAssignment1\\C_Sharp_A1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/eugene/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\immer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
