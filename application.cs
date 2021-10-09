@@ -46,7 +46,7 @@ namespace ConsoleApp5
                 firstMenu();
                 storeNum();
                 storeChoices();
-                getData();
+                //getData();
             }
         }
     }

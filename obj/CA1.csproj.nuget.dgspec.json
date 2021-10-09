@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eugene/Desktop/CA1/CA1.csproj": {}
+    "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/CA1.csproj": {}
   },
   "projects": {
-    "/Users/eugene/Desktop/CA1/CA1.csproj": {
+    "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/CA1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eugene/Desktop/CA1/CA1.csproj",
+        "projectUniqueName": "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/CA1.csproj",
         "projectName": "CA1",
-        "projectPath": "/Users/eugene/Desktop/CA1/CA1.csproj",
+        "projectPath": "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/CA1.csproj",
         "packagesPath": "/Users/eugene/.nuget/packages/",
-        "outputPath": "/Users/eugene/Desktop/CA1/obj/",
+        "outputPath": "/Users/eugene/Desktop/CSA1Git/C_Sharp_A1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eugene/.nuget/NuGet/NuGet.Config"
