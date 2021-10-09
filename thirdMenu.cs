@@ -21,7 +21,13 @@ namespace ConsoleApp5
                 //Create Lists with CSV Data. 
                 var storeID = new List<int>();
 
-                
+                //Individual Monthly Sales of a store has to be 
+                    //In essence, if the storeID matches in the list, it sums up all the sales corresponding with that ID
+                    //Total Sales is sum of the whole List. 
+                    //Holiday sales is, "if value of holiday is > 0, add it to the list being summed up. 
+
+                    
+
                 try
                 {
                 int user_choice = int.Parse(Console.ReadLine());
