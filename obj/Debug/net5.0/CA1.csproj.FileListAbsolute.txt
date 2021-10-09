@@ -1,0 +1,15 @@
+/Users/eugene/Desktop/CA1/bin/Debug/net5.0/CA1.deps.json
+/Users/eugene/Desktop/CA1/bin/Debug/net5.0/CA1.runtimeconfig.json
+/Users/eugene/Desktop/CA1/bin/Debug/net5.0/CA1.runtimeconfig.dev.json
+/Users/eugene/Desktop/CA1/bin/Debug/net5.0/CA1.dll
+/Users/eugene/Desktop/CA1/bin/Debug/net5.0/ref/CA1.dll
+/Users/eugene/Desktop/CA1/bin/Debug/net5.0/CA1.pdb
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.csproj.AssemblyReference.cache
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.AssemblyInfoInputs.cache
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.AssemblyInfo.cs
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.csproj.CoreCompileInputs.cache
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.dll
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/ref/CA1.dll
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.pdb
+/Users/eugene/Desktop/CA1/obj/Debug/net5.0/CA1.genruntimeconfig.cache
