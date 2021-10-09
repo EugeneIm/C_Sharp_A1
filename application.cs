@@ -43,9 +43,9 @@ namespace ConsoleApp5
             }
             static void Main(string[] args)
             {
-                //firstMenu();
-                //storeNum();
-                //storeChoices();
+                firstMenu();
+                storeNum();
+                storeChoices();
                 getData();
             }
         }
