@@ -8,7 +8,7 @@ namespace ConsoleApp5
     {
         public partial class menu
         {
-            static void storeNum()
+            public void storeNum()
             {
             //Console.WriteLine("Enter Store Number Please: ");
             Console.Write("Please enter a store Number: ");

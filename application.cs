@@ -41,7 +41,7 @@ namespace ConsoleApp5
                     Console.WriteLine("Wrong data type, please enter the correct type, num.");
                 }
 
-            static void individualMenu()
+            public void individualMenu()
             {
             //Console.WriteLine("Enter Store Number Please: ");
             Console.Write("Please enter a store Number: ");
@@ -71,7 +71,7 @@ namespace ConsoleApp5
 
             }
 
-            static void storeChoices()
+            public void storeChoices()
             {
                 Console.WriteLine($"1) Get Total Sales");   
                 Console.WriteLine($"2) Enter Total Monthly Sales");   
@@ -81,7 +81,7 @@ namespace ConsoleApp5
 
             }
 
-            static void Main(string[] args)
+            public void Main(string[] args)
             {
 
             }

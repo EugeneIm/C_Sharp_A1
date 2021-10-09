@@ -5,7 +5,7 @@ namespace ConsoleApp5
 {
     public partial class Program
     {
-        static void Main(string[] args)
+        public void Main(string[] args)
         {
             const string FILE = @"C:\Users\immer\Desktop\gitAssignment1\C_Sharp_A1\Walmart_Store_Data.csv";
             StreamReader sr = new StreamReader(FILE);
